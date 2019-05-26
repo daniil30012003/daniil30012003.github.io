@@ -1,40 +1,40 @@
 body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #666666;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #666666;
 }
 
 .topnav {
-  overflow: hidden;
-  background-color: #8e00ff;
-  text-shadow: 1px 1px 3px black;
+	overflow: hidden;
+	background-color: #8E00FF;
+	text-shadow: 1px 1px 3px black;
 }
 
 .topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 10px 10px;
-  text-decoration: none;
-  font-size: 17px;
+	float: left;
+	color: #F2F2F2;
+	text-align: center;
+	padding: 10px 10px;
+	text-decoration: none;
+	font-size: 17px;
 }
 
 .topnav a:hover {
-  background-color: #400090;
-  color: white;
+	background-color: #400090;
+	color: white;
 }
 
 .topnav a.active {
-  background-color: #af33ff;
-  color: white;
+	background-color: #AF33FF;
+	color: white;
 }
 
 p {
-  text-color: white;
-  text-shadow: 1px 1px 3px black;
+	color: #DDDDDD;
+	text-shadow: 1px 1px 3px black;
 }
 
 h2 {
-  text-color: white;
-  text-shadow: 1px 1px 3px black;
+	color: #DDDDDD;
+	text-shadow: 1px 1px 3px black;
 }
