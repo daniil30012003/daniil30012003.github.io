@@ -33,3 +33,13 @@ p, h1, h2 {
 	color: #DDDDDD;
 	text-shadow: 1px 1px 3px black;
 }
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 10px;
+}
+
+.container {
+  padding: 10px;
+  background-color: gray;
+}
