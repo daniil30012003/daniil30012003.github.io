@@ -29,7 +29,7 @@ body {
 	color: white;
 }
 
-p, h1, h2 {
+p, h1, h2, label {
 	color: #DDDDDD;
 	text-shadow: 1px 1px 3px black;
 }
@@ -37,6 +37,15 @@ p, h1, h2 {
 hr {
   border: 1px solid #f1f1f1;
   margin-bottom: 10px;
+}
+
+input[type=text], input[type=password] {
+  margin: 5px 0 5px 0;
+  border: none;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  outline: none;
 }
 
 .container {
