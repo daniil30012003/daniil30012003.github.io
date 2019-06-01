@@ -29,12 +29,7 @@ body {
 	color: white;
 }
 
-p {
-	color: #DDDDDD;
-	text-shadow: 1px 1px 3px black;
-}
-
-h2 {
+p, h1, h2 {
 	color: #DDDDDD;
 	text-shadow: 1px 1px 3px black;
 }
